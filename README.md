@@ -64,6 +64,3 @@ lib/
 9️⃣ License
 
 This project is for educational purposes.
-
-sab bana deta hoon bhai 😄💪
-```
